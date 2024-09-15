@@ -9,4 +9,7 @@
 - [x] Chapter 3 : Optimizing Font and Image
 - [x] Chapter 4 : Creating layout and pages
 - [x] Chapter 5 : Navigating between Pages
-- [ ] Chapter 6 : Setting Up Your Database
+- [x] Chapter 6 : Setting Up Your Database
+- [x] Chapter 7 : Fetching Data
+- [x] Chapter 8 : Static and Dynamic Rendering 
+- [ ] Chapter 9 : 
