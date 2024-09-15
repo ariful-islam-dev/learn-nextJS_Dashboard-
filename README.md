@@ -12,4 +12,5 @@
 - [x] Chapter 6 : Setting Up Your Database
 - [x] Chapter 7 : Fetching Data
 - [x] Chapter 8 : Static and Dynamic Rendering 
-- [ ] Chapter 9 : 
+- [x] Chapter 9 : Streaming
+- [ ] Chapter 10 : 
