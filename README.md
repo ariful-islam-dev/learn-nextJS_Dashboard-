@@ -13,4 +13,6 @@
 - [x] Chapter 7 : Fetching Data
 - [x] Chapter 8 : Static and Dynamic Rendering 
 - [x] Chapter 9 : Streaming
-- [ ] Chapter 10 : 
+- [x] Chapter 10 : Partial Prerendering 
+- [x] Chapter 11 : Adding Search and Pagination 
+- [ ] Chapter 12 : Mutating Data
