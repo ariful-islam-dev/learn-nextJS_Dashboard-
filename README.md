@@ -16,4 +16,5 @@
 - [x] Chapter 10 : Partial Pre-rendering 
 - [x] Chapter 11 : Adding Search and Pagination 
 - [x] Chapter 12 : Mutating Data 
-- [ ] Chapter 13 :
+- [x] Chapter 13 : Error Handling
+- [ ] Chapter 14 :
